@@ -1,2 +1,2 @@
 # Sql-server-hands-on
-Necessary SQL concepts and related practices.
+# Necessary SQL concepts and related practices.
